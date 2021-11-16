@@ -20,7 +20,9 @@ int main(){
     
      
 
-//	refresh();
+	refresh();
+	
 	getch();
+	
 	endwin();
 }
