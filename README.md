@@ -4,7 +4,7 @@ using namespace std;
 
 int main(){
 
-	initscr();
+initscr();
     char Nama [20], Alamat[20], hobi[20];
 	
 	
