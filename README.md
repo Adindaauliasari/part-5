@@ -19,7 +19,7 @@ initscr();
         printw ("\n");
 	printw ("Nama    :%s \n", Nama );
 	printw ("Alamat  :%s \n", Alamat );
-    printw ("hobi    :%s \n", hobi );
+        printw ("hobi    :%s \n", hobi );
     
 	refresh();
 	
