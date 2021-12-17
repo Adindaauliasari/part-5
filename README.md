@@ -16,7 +16,7 @@ initscr();
 	getstr(hobi);
 	
 	
-        printw ("\n");
+        printw (         "\n"          );
 	printw ("Nama    :%s \n", Nama );
 	printw ("Alamat  :%s \n", Alamat );
         printw ("hobi    :%s \n", hobi );
