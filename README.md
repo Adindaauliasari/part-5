@@ -18,7 +18,7 @@ char Nama [20], Alamat[20], hobi[20] ;
 	
         printw (         "\n"          );
 	printw ("Nama    :%s \n", Nama );
-	printw ("Alamat  :%s \n", Alamat );
+	printw ("Alamat  :%s \n", Alamat);
         printw ("hobi    :%s \n", hobi );
     
 	refresh();
