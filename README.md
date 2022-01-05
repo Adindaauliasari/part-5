@@ -10,9 +10,9 @@ initscr ();
 
 char Nama [20], Alamat[20], hobi[20] ;
 	
-	getstr(Nama);
-	getstr(Alamat);
-	getstr(hobi);
+	getstr (Nama);
+	getstr (Alamat);
+	getstr (hobi);
 	
 	
         printw (         "\n"          );
