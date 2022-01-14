@@ -8,7 +8,7 @@ int main ()
 
 initscr ();
 
-char Nama [20], Alamat[20], hobi[20] ;
+char Nama [20], Alamat [20], hobi [20] ;
 	
 	getstr (Nama);
 	getstr (Alamat);
